@@ -10,4 +10,6 @@ Code: Clock_NodeMCU.zip, file is the Sketch file for the ESP8266-12E NodeMCU ver
 
 Code: clock_pi.zip , file for the Raspberry Pi W version Master clock software to be loaded onto the home directory of the RPi Zero W.
 
-PDF: This file is the 38MB PDF file of the Master clock article. 
+PDF: This file is the 38MB PDF file of the Master clock article.
+
+Updated PDF: minor corrections. Also renamed Clock-pi.zip to conform to referenced text.
