@@ -12,4 +12,6 @@ Code: clock_pi.zip , file for the Raspberry Pi W version Master clock software t
 
 PDF: This file is the 38MB PDF file of the Master clock article.
 
+PDF: SecondaryVoltage conversion is a "How To" file that will allow a different voltage secondary to work with either a 12 volt or 24 volt master clock system.  
+
 Updated PDF: minor corrections. Also renamed Clock-pi.zip to conform to referenced text.
